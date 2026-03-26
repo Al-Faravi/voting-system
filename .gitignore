@@ -1,0 +1,7 @@
+# Ignore database files
+users.json
+votes.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
